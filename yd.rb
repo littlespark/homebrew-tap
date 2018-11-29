@@ -2,7 +2,7 @@ class Yd < Formula
   desc "有道翻译go版本"
   homepage "https://github.com"
   url "https://github.com/littlespark/yd/releases/download/V1.0/yd-darwin-amd64.tar.gz"
-  sha256 "2648dfe1f06d6d70f0df2a52dfe2a2fbdbf66cb271d35de6eb12e4807e0e6476"
+  sha256 "b83dbfc71c4332dd6784820908369c110387ec4522a98a7f3ec83ef1f6adad10"
 
   def install
     bin.install "yd"
